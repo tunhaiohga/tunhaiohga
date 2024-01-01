@@ -31,14 +31,14 @@
 
 .withTagAsButton_cc125f:hover, 
 .withTagless__98b7d:hover {
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(rgba(245, 40, 145, 0));
   border-radius: 4px;
   border: 1px solid #00aeff;
   color: white;
 }
 
 .theme-light .messageContainer__18275 {
-    background-color: #181818;
+    background-color: #ffffff;
 }
 
 .background-3X6N7I {
